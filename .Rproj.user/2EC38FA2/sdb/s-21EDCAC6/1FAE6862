@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle:\"Miles McBain\"\n---\n\n<br>\n\n#Links\n\n* [RStudio](http://mcbain.xyz/rstudio)\n* [Jupyter](https://mcbain.xyz/jupyter)\n* [Shiny](http://mcbain.xvz/shiny)\n\n\n\n\n\n",
+    "created" : 1465009312454.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1155529160",
+    "id" : "1FAE6862",
+    "lastKnownWriteTime" : 1465022394,
+    "last_content_update" : 1465022394836,
+    "path" : "/usr/share/repos/mcbain.xyz.site/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "chunk_rendered_width" : "650"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

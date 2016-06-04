@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "<p>Copyright &copy; 2016 Miles McBain</p>",
+    "created" : 1465009987700.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "186229677",
+    "id" : "8B73FCEB",
+    "lastKnownWriteTime" : 1465021779,
+    "last_content_update" : 1465021779013,
+    "path" : "/usr/share/repos/mcbain.xyz.site/footer.html",
+    "project_path" : "footer.html",
+    "properties" : {
+        "chunk_rendered_width" : "650",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

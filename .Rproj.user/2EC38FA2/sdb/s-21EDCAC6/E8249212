@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle:\"About\"\n---\n\nThis website is developed in R markdown. ",
+    "created" : 1465020031686.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2091695978",
+    "id" : "E8249212",
+    "lastKnownWriteTime" : 1465022377,
+    "last_content_update" : 1465022377242,
+    "path" : "/usr/share/repos/mcbain.xyz.site/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+        "chunk_rendered_width" : "650"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

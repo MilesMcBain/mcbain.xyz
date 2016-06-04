@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "blockquote {\n  font-style: italic\n}",
+    "created" : 1465010007629.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3371034293",
+    "id" : "BBBB5945",
+    "lastKnownWriteTime" : 1465010025,
+    "last_content_update" : 1465010025285,
+    "path" : "/usr/share/repos/mcbain.xyz.site/style.css",
+    "project_path" : "style.css",
+    "properties" : {
+        "chunk_rendered_width" : "650",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

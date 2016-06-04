@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"mcbain.xyz\"\nnavbar:\n  title: \"mcbain.xyz\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html\noutput:\n  html_document:\n    theme: paper\n    highlight: textmate\n    include:\n      after_body: footer.html\n    css: styles.css",
+    "created" : 1465009909351.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "158491452",
+    "id" : "F29C7A4D",
+    "lastKnownWriteTime" : 1465015570,
+    "last_content_update" : 1465015570721,
+    "path" : "/usr/share/repos/mcbain.xyz.site/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "chunk_rendered_width" : "650"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
