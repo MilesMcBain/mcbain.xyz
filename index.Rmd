@@ -8,7 +8,7 @@ title:"Miles McBain"
 
 * [RStudio](http://mcbain.xyz/rstudio)
 * [Jupyter](https://mcbain.xyz/jupyter)
-* [Shiny](http://mcbain.xvz/shiny)
+* [Shiny](http://mcbain.xyz/shiny)
 
 
 
