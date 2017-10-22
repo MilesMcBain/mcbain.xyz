@@ -6,11 +6,5 @@ title:"Miles McBain"
 
 #Links
 
-* [RStudio](http://mcbain.xyz/rstudio)
-* [Jupyter](https://mcbain.xyz/jupyter)
-* [Shiny](http://mcbain.xyz/shiny)
-
-
-
-
+* [RStudio](http://mcbain.xyz:8787)
 
